@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exe1_OrdemInversa",
+            "request": "launch",
+            "mainClass": "Exe1_OrdemInversa",
+            "projectName": "Exercícios parte 2_22e0b1b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exe2_Consoantes",
+            "request": "launch",
+            "mainClass": "Exe2_Consoantes",
+            "projectName": "Exercícios parte 2_22e0b1b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exe3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "Exe3_NumerosAleatorios",
+            "projectName": "Exercícios parte 2_22e0b1b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exe4_ArraysMultidimensionais",
+            "request": "launch",
+            "mainClass": "Exe4_ArraysMultidimensionais",
+            "projectName": "Exercícios parte 2_22e0b1b5"
+        }
+    ]
+}
